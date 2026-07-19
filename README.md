@@ -1,5 +1,11 @@
 # ia-generativa-notas
-Aprendizaje autodidacta sobre modelos de lenguaje (LLMs), con especial interés en su despliegue local y seguro para entornos con datos sensibles.
+
+**Analista-Desarrolladora de Sistemas Sanitarios | Ciberseguridad & Salud Digital**
+
+Documento aquí mi aprendizaje autodidacta sobre modelos de lenguaje (LLMs) y su 
+aplicación práctica al ámbito sanitario: cómo desplegarlos en local, qué 
+implicaciones tienen para la protección de datos clínicos, y cómo encajan en 
+un contexto regulatorio cada vez más exigente (NIS2, ENS).
 
 ## Índice
 - [Fundamentos](./01-fundamentos)
